@@ -1,41 +1,41 @@
 province,x,y,color
-Banten,-325,-160,#0073b6
-Jawa Barat,-265,-184,#ff3237
-Yogyakarta,-195,-210,#002d86
-Jawa Timur,-111,-200,#731b83
-Jawa Tengah,-160,-122,#ff9400
-"Sulawesi
-     Barat", 32, -21,#01a80b
 Aceh,-505,190,#731b83
+Bali,-70,-215,#ff0b74
+"Bangka
+Belitung",-249,2,#731b83
+Banten,-325,-160,#0073b6
+Bengkulu,-424,-84,#ff0b74
+DKI Jakarta,-238,-82,#01a80b
+Gorontalo,157,92,#731b83
+Jambi,-318,14,#01a80b
+Jawa Barat,-265,-184,#ff3237
+Jawa Tengah,-160,-122,#ff9400
+Jawa Timur,-111,-200,#731b83
+"Kalimantan
+   Tengah",-112,-90,#01a80b
+"Kalimantan
+Timur",86,89,#ff3237
+Kalimantan Barat,-102,95,#0073b6
+Kalimantan Utara,-70,139,#731b83
+"Kelimantan
+Selatan",-3,-97,#ff9400
+Kepulauan Riau,-258,100,#002d86
+Lampung,-373,-120,#002d86
+Maluku,324,-120,#ff3237
+Maluku Utara,388,92,#0073b6
+Nusa Tenggara Barat,103,-170,#0073b6
+Nusa Tenggara Timur,151,-268,#01a80b
+Papua,591,20,#731b83
+Papua Barat,454,43,#01a80b
+Riau,-398,105,#ff3237
+"Sulawesi
+     Barat",32,-21,#01a80b
+Sulawesi Selatan,61,-128,#002d86
+Sulawesi Tengah,229,-30,#ff0b74
+Sulawesi Tenggara,275,-93,#ff9400
+Sulawesi Utara,252,123,#ff9400
 "Sumatera
            Utara",-533,39,#ff9400
 Sumatera Barat,-499,-22,#0073b6
-Riau,-398,105,#ff3237
-Kepulauan Riau,-258,100,#002d86
-Jambi,-318,14,#01a80b
 Sumatera Selatan,-200,-57,#ff9400
-"Bangka
-Belitung", -249,2,#731b83
-Bengkulu,-424,-84,#ff0b74
-Lampung,-373,-120,#002d86
-DKI Jakarta,-238,-82,#01a80b
-Bali,-70,-215,#ff0b74
-Nusa Tenggara Barat,103,-170,#0073b6
-Nusa Tenggara Timur,151,-268,#01a80b
-Kalimantan Barat,-102,95,#0073b6
-"Kalimantan
-   Tengah",-112,-90,#01a80b
-"Kelimantan
-Selatan",-3,-97,#ff9400
-"Kalimantan
-Timur",86,89,#ff3237
-Kalimantan Utara,-70,139,#731b83
-Sulawesi Utara,252,123,#ff9400
-Gorontalo,157,92,#731b83
-Sulawesi Tengah,229,-30,#ff0b74
-Sulawesi Selatan,61,-128,#002d86
-Sulawesi Tenggara,275,-93,#ff9400
-Maluku,324,-120,#ff3237
-Maluku Utara,388,92,#0073b6
-Papua Barat,454,43,#01a80b
-Papua,591,20,#731b83
+Yogyakarta,-195,-210,#002d86
